@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const apiUrl = "https://api-crud-dnla.onrender.com";
+const apiUrl = "https://cenario03.onrender.com";
 
 export default function Home() {
   const [lista, setLista] = useState([]);
